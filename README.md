@@ -43,6 +43,8 @@ Minha jornada de aprimoramento técnico foi intensificada pela minha experiênci
 
 - Python
 - Estrutura de dados I, II
+
+Além do rigoroso aprendizado técnico, também desenvolvi habilidades de Soft Skills, aprendendo a valorizar as pessoas e o tempo. Aprendi a organizar cada momento importante do dia e a lidar com circunstâncias desafiadoras em intervalos de 30 minutos. Aprimorei minhas habilidades de comunicação através de palestras, interação com colegas e resolução criativa de problemas em equipe. Aprendi a lidar com a pressão do dia-a-dia, a absorver conhecimento, a me comunicar em público, a conhecer a mim mesmo e a tomar decisões em equipe.
   
 Se você compartilha dos mesmos interesses ou está em busca de colaboradores para projetos incríveis, estou totalmente aberto a oportunidades e parcerias. Vamos unir forças e criar algo verdadeiramente excepcional juntos! 🚀
 
