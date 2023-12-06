@@ -29,7 +29,7 @@ Minha jornada de aprimoramento técnico foi intensificada pela minha experiênci
 - Redux
 - Hooks
   
-*BACKEND*
+*BACKEND:*
 
 - Container Docker
 - Normalização SQL, JOIN
